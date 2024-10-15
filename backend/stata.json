@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Gel Pen",
+        "brand": "Pilot",
+        "price": 1.50,
+        "description": "Smooth writing gel pen with a fine point.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPnkeGhGPlVRA1uQ7PISlVk-1Kuwccl8G-axN1Hwmyk9JX8EzuNj52AZByVXkIbbr92lk&usqp=CAU",
+        "category": "Writing Instruments",
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "name": "Notebook",
+        "brand": "Moleskine",
+        "price": 12.99,
+        "description": "Classic hardcover notebook with 240 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhuXL7XDbd8_C7pEPKyrxmu_YpoZ0_SgIinPUdZ6d9AungiqJYN5asrA4H8aMQgCNzPw&usqp=CAU",
+        "category": "Notebooks",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "name": "Highlighter",
+        "brand": "Sharpie",
+        "price": 2.00,
+        "description": "Chisel tip highlighter for bold and vibrant marking.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD4Tm3eYCh1y9oKBITUYOTZS9ieYl6XFOiucGhoKb2bwtBk9R-J94C7yAlIedaWG9s8E&usqp=CAU",
+        "category": "Writing Instruments",
+        "stock": 150
+    },
+    {
+        "id": 4,
+        "name": "Sticky Notes",
+        "brand": "Post-it",
+        "price": 3.50,
+        "description": "Pack of colorful sticky notes for reminders.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP-jqfB_sTwkzB3lODI6XsUbllpnceDtw3WzjyfuGHyElUPp3CxeXBSLd3An9IrAwefeE&usqp=CAU",
+        "category": "Organizers",
+        "stock": 200
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Pencil",
+        "brand": "Papermate",
+        "price": 2.75,
+        "description": "0.7mm mechanical pencil for precise writing.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1obCMHUeYuraSC4_MZxNVlCHme1D78UZCmaIjr4k8_6DFDmTGJoYi4GMgyCY8Uf1J2M&usqp=CAU",
+        "category": "Writing Instruments",
+        "stock": 80
+    },
+    {
+        "id": 6,
+        "name": "Binder Clips",
+        "brand": "Acco",
+        "price": 4.00,
+        "description": "Pack of 12 binder clips for organizing papers.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPGAi304kYNO2AlFPOXriCgwppJeI5v_tN-6_Z7_V1CbtfHWdtIKL_4QZE3MgBboNU08&usqp=CAU",
+        "category": "Organizers",
+        "stock": 120
+    },
+    {
+        "id": 7,
+        "name": "Eraser",
+        "brand": "Staedtler",
+        "price": 1.25,
+        "description": "Rubber eraser for clean erasing.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZIXcRr3muNol5-7L5nTb1RbBIK2oIteLksSsARo3vabviYk_LytJl2Yq1v0-qh698Js&usqp=CAU",
+        "category": "Writing Instruments",
+        "stock": 200
+    },
+    {
+        "id": 8,
+        "name": "Desk Organizer",
+        "brand": "U Brands",
+        "price": 15.99,
+        "description": "Stylish desk organizer for stationery items.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6t4JE-_FTCog_jtBKOfPuKAYYNq9nW_Wc1h1whC5NrMZg5abwmsVJTOC1esKDR6QWwD8&usqp=CAU",
+        "category": "Office Supplies",
+        "stock": 30
+    },
+    {
+        "id": 9,
+        "name": "Ruler",
+        "brand": "Westcott",
+        "price": 1.00,
+        "description": "12-inch ruler made of durable plastic.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CLZCT8ci2YjYfJMdSNiXkvmhY-Hrw-ael_1W4aezn6DTS0wYCmRJu98IvnxlXPxo7I8&usqp=CAU",
+        "category": "Writing Instruments",
+        "stock": 100
+    },
+    {
+        "id": 10,
+        "name": "Tape Dispenser",
+        "brand": "Scotch",
+        "price": 5.00,
+        "description": "Heavy-duty tape dispenser with included tape.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2sEh2OEBxAvjJJhztnUExJr03xvWnnRQmSeE1GiKGEd4DJwSvTZMhZMpcK5_sPLSl4jY&usqp=CAU",
+        "category": "Office Supplies",
+        "stock": 60
+    }
+]

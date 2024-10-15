@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Onlone-Book-Selling-Point
+BookPoint
+Overview
+
+BookPoint is a full-stack application for buying and selling books. It features a React frontend and a Node.js/Express backend, connected to a MySQL database. This project demonstrates how the backend interacts with the frontend through APIs.
+# Features
+
+    User authentication (signup and login)
+    Browse and search books
+    Add, update, and delete book listings
+    User profiles with purchase history
+    Responsive design
+
+# Technologies Used
+
+    Frontend: React, Axios, Bootstrap
+    Backend: Node.js, Express, MySQL, Sequelize
+
+Getting Started
+Prerequisites
+
+    Node.js and npm
+    MySQL serve
+>>>>>>> 9908c63bc5c47a0f7ed7cd6310092ef10e96ff9e

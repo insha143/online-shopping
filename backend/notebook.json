@@ -1,0 +1,94 @@
+[
+    {
+      "ntype": "Classic Notebook", 
+      "author": "Moleskine",
+      "oprice": 15.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyS6ZdTqkFm7l8mupzjDS32QEZef29wtFYHg&s",
+      "description": "A classic, hard-cover notebook with a ribbon bookmark, perfect for journaling and sketching."
+    },
+    {
+      "ntype": "Spiral Notebook", 
+      "author": "Oxford",
+      "oprice": 5.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNqCjgIxFMWKmNYpRFlrnlwO58yNhYRmWKQ&s",
+      "description": "A spiral-bound notebook with ruled pages, ideal for taking notes in class."
+    },
+    {
+      "ntype": "Leather Notebook", 
+      "author": "Leuchtturm1917",
+      "oprice": 19.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlCJvDe_4-eLRsfdqpjZwt1qSNE24EcMEjQ&s",
+      "description": "A luxurious leather notebook with numbered pages and a table of contents."
+    },
+    {
+      "ntype": "Field Notes", 
+      "author": "Field Notes",
+      "oprice": 12.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHhy8hdLOc4izo2mlrAqRSKnyepuvW6hLFQ&s",
+      "description": "A pocket-sized notebook perfect for jotting down notes on the go."
+    },
+    {
+      "ntype": "Grid Notebook", 
+      "author": "Rhodia",
+      "oprice": 8.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZ5nrq7IEQIYnnjqSY21jx22jTRRagWXrbA&s",
+      "description": "A grid notebook suitable for technical drawings and precise sketches."
+    },
+    {
+      "ntype": "Bullet Journal", 
+      "author": "Nuuna",
+      "oprice": 16.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmGL4jAQc5F9S5gNxchMMwO4_14QjTTZHLPg&s",
+      "description": "A customizable bullet journal with dot grid pages, perfect for planners."
+    },
+    {
+      "ntype": "Travel Journal", 
+      "author": "Paperblanks",
+      "oprice": 20.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxesPR6rDe9zCQ4R6NCT58NSqx4-aRZdNgg&s",
+      "description": "An elegant travel journal designed for capturing adventures and experiences."
+    },
+    {
+      "ntype": "Art Notebook", 
+      "author": "Strathmore",
+      "oprice": 14.75,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrvFdvHqbGzlDPPqnkLsGrleVQbJdwHczUQ&s",
+      "description": "A sketchbook with heavy paper, perfect for artists and creatives."
+    },
+    {
+      "ntype": "Composition Notebook", 
+      "author": "Mead",
+      "oprice": 3.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFB5eB_SWWQbzZ0LnhkT5gbSeuDHVBt1LLg&s",
+      "description": "A traditional composition notebook with a marble cover, great for school use."
+    },
+    {
+      "ntype": "Composition Notebook", 
+      "author": "Mead",
+      "oprice": 3.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZ9EjopZVwQTzeq99SzE7o1XK7nfGM8Lr0A&s",
+      "description": "A traditional composition notebook with a marble cover, great for school use."
+    },
+    {
+      "ntype": "Composition Notebook", 
+      "author": "Mead",
+      "oprice": 3.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6UEPJ_JF2pHfGUCUBB1ClNV6THP-8j88y1g&s",
+      "description": "A traditional composition notebook with a marble cover, great for school use."
+    },
+    {
+      "ntype": "Composition Notebook", 
+      "author": "Mead",
+      "oprice": 3.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR4wXEeP4wufG-CjR5B1cs7k3-lX9XoPJCkQ&s",
+      "description": "A traditional composition notebook with a marble cover, great for school use."
+    },
+    {
+      "ntype": "Science Notebook", 
+      "author": "Scientific Notebook",
+      "oprice": 7.25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZ9EjopZVwQTzeq99SzE7o1XK7nfGM8Lr0A&s",
+      "description": "A specialized notebook for science students with grid and ruled pages."
+    }
+  ]
+  
