@@ -1,0 +1,12 @@
+.cart-overlay {
+    position: fixed; /* Makes the overlay cover the entire viewport */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: wheat; /* Semi-transparent background */
+    z-index: 999; /* Ensures it's on top of other elements */
+    display: flex; /* Allows you to center content */
+    justify-content: center; /* Centers content horizontally */
+    align-items: center; /* Centers content vertically */
+}

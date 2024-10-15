@@ -1,0 +1,64 @@
+.cart-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 20px;
+    z-index: 1000;
+    overflow-y: auto; /* Allow scrolling if content is too long */
+}
+
+.close-btn {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+.cart-item {
+    background-color: #fff; /* White background for cart item */
+    border-radius: 10px;
+    padding: 20px;
+    width: 80%; /* Width of the cart item */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow effect */
+}
+
+.cart-image {
+    border-radius: 10px;
+}
+
+.cart-details {
+    border-left: 2px solid #007BFF; /* Blue border for separation */
+    padding-left: 20px; /* Space between images and details */
+}
+
+.confirmation {
+    background-color: #f9f9f9; /* Light background for order details */
+    border: 1px solid #007BFF; /* Blue border */
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn {
+    border-radius: 5px; /* Rounded buttons */
+}
+
+h2, h3, h4, h5 {
+    color: #333; 
+}
+
+label {
+    margin-left: 10px;
+}
+/* .custom-card img{
+    width: 1500px;
+
+} */
